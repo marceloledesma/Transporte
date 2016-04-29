@@ -1,0 +1,5 @@
+transporte:
+    resource: "@TransporteBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
